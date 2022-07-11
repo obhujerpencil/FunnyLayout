@@ -2,7 +2,7 @@
 * text=auto
 
 # Show SQL files as SQL
-*activity_main.xml linguist-detectable=true
+*AndroidManifest.xml linguist-detectable=true
 
 # Show SQL files as SQL and not TSQL
-*activity_main.xml linguist-language=xml
+*AndroidManifest.xml linguist-language=xml
