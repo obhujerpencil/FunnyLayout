@@ -2,7 +2,7 @@
 * text=auto
 
 # Show SQL files as SQL
-*.xml linguist-detectable=true
+*activity_main.xml linguist-detectable=true
 
 # Show SQL files as SQL and not TSQL
-*.xml linguist-language=xml
+*activity_main.xml linguist-language=xml
